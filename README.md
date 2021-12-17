@@ -1,4 +1,4 @@
-December 2021:
+December 2021:<br>
 Modified to include support for fine-tuning tempo and OLED screen, by me, zach
 
 July 2020:<br>
