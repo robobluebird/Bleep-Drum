@@ -1,3 +1,6 @@
+December 2021:
+Modified to include support for fine-tuning tempo and OLED screen, by me, zach
+
 July 2020:<br>
 Second run of kits avaiable now!<br>
 https://bleeplabs.com/product/the-bleep-drum/<br>
